@@ -2,6 +2,9 @@
 
 An interactive learning app for logic and the maths behind AI. Learners move through a topic dashboard at four levels (beginner, intermediate, advanced, mastery) with quizzes and hands-on labs:
 
+![Logic Loop screenshot](docs/screenshot.png)
+<!-- Add a screenshot at docs/screenshot.png -->
+
 - Truth tables and a logic-sentence translator
 - Classifier and k-nearest-neighbours visualisation
 - Matrix lab, Bayes calculator and entropy lab
